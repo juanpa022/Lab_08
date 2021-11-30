@@ -39,7 +39,9 @@ el valor apropiado para el parametro s?
 parametros dados
 
 >int generate_prime()
+
 Implementar GENERATE-PRIME(b). Colocar el algoritmo en el README.md con una
 breve explicacion. Encontrar 100 primos distintos de 10 bits utilizando este algoritmo. ¿Cual
 es el valor apropiado para el parametro s?
+
 -"generate_prime" "generate_primecandidate" ademas de las anteriores usadas ,se reduce la mascara para hacer posible encontrar 100 primos distintos
