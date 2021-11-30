@@ -23,16 +23,22 @@
 # Implementación
 
 >int powmod ()
+
 >bool witness()
+
 >int random_int()
+
 >bool miller_rabin()
+
 >int generate_prime_candidate()
+
 Colocar el algoritmo en el README.md con una
 breve explicacion. Encontrar todos los primos de 3 cifras utilizando este algoritmo. ¿Cual es
 el valor apropiado para el parametro s?
 -Podemos ver en cuato imprime el codigo los resultados dados por esta misma funcion la cual cumpli con los 
 parametros dados
-int generate_prime()
+
+>int generate_prime()
 Implementar GENERATE-PRIME(b). Colocar el algoritmo en el README.md con una
 breve explicacion. Encontrar 100 primos distintos de 10 bits utilizando este algoritmo. ¿Cual
 es el valor apropiado para el parametro s?
