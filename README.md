@@ -17,8 +17,11 @@
 <p align="center">
 <img src= https://i.postimg.cc/nzG6dZJY/replit-logo.png)](https://postimg.cc/ygWQdMWk)>
 </p>
+
 :warning:Crear un repositorio en Github (con README.md).
+
 # Implementación
+
 >int powmod ()
 >bool witness()
 >int random_int()
